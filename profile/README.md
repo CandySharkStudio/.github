@@ -1,6 +1,6 @@
-# SupriseCandyShark（惊喜糖鲨）
+# CandySharkStudio（糖鲨工作室）
 
-欢迎光临惊喜糖鲨小杂货铺！这里有一些你可能感兴趣的项目，欢迎随时随地 fork + star！
+欢迎光临糖鲨工作室的小杂货铺！这里有一些你可能感兴趣的项目，欢迎随时随地 fork + star！
 我们有：
 
 1. [PCL.Nova.Plus](https://github.com/SupriseCandyShark/PCL.Nova.Plus) 一款非常棒的 PCL2 衍生版启动器！【火热更新中……】
