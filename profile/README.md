@@ -24,4 +24,4 @@
 满足上述任意一点即可申请加入我们！（其中第 7 点是只要你有志向，例如上面啥都懂点，但不多的，也可以随时加入我们！这点不强求！）\
 目前组织人数急切的需要人来加入（我们欢迎每一位有志之士加入我们的组织！！也欢迎每一位有心之人前来品尝！！
 
-各位如果想赞助的话，随时欢迎来参观我们的爱发电：[https://afdian.com/a/CandySharkStudio](https://afdian.com/a/CandySharkStudio)，我们团队也会时常发送一些下次更新内容在上面噢~
+各位如果想赞助的话，随时欢迎来参观我们的爱发电：[https://ifdian.net/a/CandySharkStudio](https://ifdian.net/a/CandySharkStudio)，我们团队也会时常发送一些下次更新内容在上面噢~
