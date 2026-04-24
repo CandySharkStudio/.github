@@ -3,11 +3,14 @@
 欢迎光临糖鲨工作室的小杂货铺！这里有一些你可能感兴趣的项目，欢迎随时随地 fork + star！
 我们有：
 
-1. [PCL.Nova.Plus](https://github.com/CandySharkStudio/PCL.Nova.Plus) 一款非常棒的 PCL2 衍生版启动器！【暂时停更ing……】
-2. [Sandwich](https://github.com/CandySharkStudio/Sandwich) 一款非常棒的实现了 [Scaffolding](https://github.com/Scaffolding-MC/Scaffolding-MC) 协议的 Minecraft 联机工具！【新建文件夹中……】
-3. [Capri-Lang](https://github.com/CandySharkStudio/Capri-Language) 一个非常棒的跨全平台的**编程语言**！【新建文件夹中……】
-4. [Robot-Love](https://github.com/CandySharkStudio/Robot-Love) 一个自制的 fvn！欢迎来品尝！【火热更新中……】
-5. [Eight Question]() 八个问题，目前还是在构想中，还没有新建文件夹。。
+|名称|功能|
+|----|----|
+|[PCL.Nova.Plus](https://github.com/CandySharkStudio/PCL.Nova.Plus)|一款非常棒的 PCL2 衍生版启动器！【暂时停更ing……】|
+|[Sandwich](https://github.com/CandySharkStudio/Sandwich)|一款非常棒的实现了 [Scaffolding](https://github.com/Scaffolding-MC/Scaffolding-MC) 协议的 Minecraft 联机工具！【新建文件夹中……】|
+|[Capri-Lang](https://github.com/CandySharkStudio/Capri-Language)|一个非常棒的跨全平台的**编程语言**！【新建文件夹中……】|
+|[RenTauri](https://github.com/CandySharkStudio/RenTauri)|工作室定制的开源**视觉小说**引擎！采用 Tauri 语言自制！【火热更新中……】|
+|[RenTauriCompiler](https://github.com/CandySharkStudio/RenTauriCompiler)|工作室定制的开源**视觉小说**引擎的源码编译器，采用 Zig 语言定制。【火热更新中……】|
+|[Robot-Love](https://codeberg.org/CandySharkStudio/Robot-Love)|采用了工作室定制引擎制作的一个自制的 fvn！欢迎来品尝！【火热更新中……】|
 
 欢迎各位前来观看！顺便，，如果你想申请加入本组织的话！可以随意加我们的组织 QQ 群：975726294，可以吹牛，可以闲聊，都可以做哒！欢迎各位的加入！\
 上述是组织的 fvn 交流群，欢迎任何人的加入！不限制讨论范围，也不限制开发能力！ \
@@ -18,7 +21,7 @@
 2. 文笔好，会写文案！
 3. 美术好，会画画或者建模！
 4. 音乐好，会编曲和作曲，会背景音乐！
-5. 编程好，前端需要懂（Vue、React、Svelte、SolidJS）等任意前端框架以及 TypeScript 语法，后端需要懂 Rust、SQLite 的语法！
+5. 编程好，前端需要懂（Vue、React、Svelte、SolidJS）等任意前端框架以及 TypeScript 语法，后端需要懂 Rust、SQLite、Zig、Lua、Renpy 等编程语言的语法！
 6. bug 体制，需要有非常棒的捉虫能力！为写好的程序捉 bug！
 7. 有志向为组织出一份力的。
 
