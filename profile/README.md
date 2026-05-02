@@ -8,8 +8,8 @@
 |[PCL.Nova.Plus](https://github.com/CandySharkStudio/PCL.Nova.Plus)|一款非常棒的 PCL2 衍生版启动器！|暂时停更ing……|
 |[Sandwich](https://github.com/CandySharkStudio/Sandwich)|一款非常棒的实现了 [Scaffolding](https://github.com/Scaffolding-MC/Scaffolding-MC) 协议的 Minecraft 联机工具！|新建文件夹中……|
 |[Capri-Lang](https://github.com/CandySharkStudio/Capri-Language)|一个非常棒的跨全平台的**编程语言**！|新建文件夹中……|
-|[RenTauri](https://github.com/CandySharkStudio/RenTauri)|工作室定制的开源**视觉小说**引擎！采用 Tauri 语言自制！|火热更新中……|
-|[RenTauriCompiler](https://github.com/CandySharkStudio/RenTauriCompiler)|工作室定制的开源**视觉小说**引擎的源码编译器，采用 Zig 语言定制。|火热更新中……|
+|[RenRs](https://github.com/CandySharkStudio/RenRs)|工作室定制的开源**视觉小说**引擎！采用 Tauri 语言自制！|火热更新中……|
+|[RenRsCompiler](https://github.com/CandySharkStudio/RenRsCompiler)|工作室定制的开源**视觉小说**引擎的源码编译器，采用 Zig 语言定制。|火热更新中……|
 |[Robot-Love](https://codeberg.org/CandySharkStudio/Robot-Love)|采用了工作室定制引擎制作的一个自制的 fvn！欢迎来品尝！|火热更新中……|
 
 欢迎各位前来观看！顺便，，如果你想申请加入本组织的话！可以随意加我们的组织 QQ 群：975726294，可以吹牛，可以闲聊，都可以做哒！欢迎各位的加入！\
