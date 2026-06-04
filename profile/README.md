@@ -8,7 +8,8 @@
 |[PCL.Nova.Plus](https://github.com/CandySharkStudio/PCL.Nova.Plus)|一款非常棒的 PCL2 衍生版启动器！|暂时停更ing……|
 |[Sandwich](https://github.com/CandySharkStudio/Sandwich)|一款非常棒的实现了 [Scaffolding](https://github.com/Scaffolding-MC/Scaffolding-MC) 协议的 Minecraft 联机工具！|新建文件夹中……|
 |[Capri-Lang](https://github.com/CandySharkStudio/Capri-Language)|一个非常棒的跨全平台的**编程语言**！|新建文件夹中……|
-|[RenRs](https://github.com/CandySharkStudio/RenRs)|工作室定制的开源**视觉小说**引擎！采用 Tauri 语言自制！|火热更新中……|
+|[RenRs](https://github.com/CandySharkStudio/RenRs)|工作室定制的开源**视觉小说**引擎！采用 Tauri 框架自制！|已停更，参见 RenRsRefactor……|
+|[RenRsRefactor](https://github.com/CandySharkStudio/RenRsRefactor)|工作室定制的开源**视觉小说**引擎！采用 winit + softbuffer 框架自制！|火热更新中……|
 |[RenRsCompiler](https://github.com/CandySharkStudio/RenRsCompiler)|工作室定制的开源**视觉小说**引擎的源码编译器，采用 Zig 语言定制。|火热更新中……|
 |[Robot-Love](https://github.com/CandySharkStudio/Robot-Love)|采用了工作室定制引擎制作的一个自制的 fvn！欢迎来品尝！|火热更新中……|
 
